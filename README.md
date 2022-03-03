@@ -4,7 +4,7 @@ Example Recognition Different Face with Flask and OpenCV
 
 ## How to Run this Project
 
-  - git clone git@github.com:antheiz/flask-recognition-opencv.git
+  - git clone https://github.com/antheiz/flask-recognition-opencv.git
   - cd flask-recognition-opencv
   - python -m venv faceenv
   - faceenv\Scripts\activate (for windows)
