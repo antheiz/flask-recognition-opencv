@@ -8,6 +8,6 @@ Example Recognition Different Face with Flask and OpenCV
   - cd flask-recognition-opencv
   - python -m venv faceenv
   - faceenv\Scripts\activate (for windows)
-  - faceenv\Scripts\activate (for linux)
+  - source faceenv/bin/activate (for linux)
   - pip install -r requirements.txt
   - python app.py
